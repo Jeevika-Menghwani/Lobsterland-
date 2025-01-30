@@ -15,5 +15,6 @@ Welcome to the LobsterLand Dashboard, your go-to tool for unlocking key insights
 
 🚀 Why It Matters?
 This dashboard empowers data-driven decisions, ensuring a seamless visitor experience, smarter resource management, and optimized revenue strategies. Let’s make LobsterLand even more amazing! 🎢🎯
+
 https://public.tableau.com/views/lobsterland/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
